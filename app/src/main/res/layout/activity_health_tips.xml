@@ -4,14 +4,14 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg4"
+    android:background="@drawable/back3"
     tools:context=".HealthTipsActivity">
 
     <TextView
         android:id="@+id/textViewHTName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="24*7 HealthCare"
+        android:text="24/7 HealthCare"
         android:textColor="#FA2010"
         android:textSize="34sp"
         android:textStyle="bold"
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Health Tips"
-        android:textColor="#FA2010"
+        android:textColor="#FFEB3B"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -18,6 +18,22 @@ public class DoctorDetailsActivity extends AppCompatActivity {
 
     private  String[][] doctor_details1=
             {
+                    {"Doctor Name:Dr.Sajib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Kamrul", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Nadim ", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Rafi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Nayeem", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Rafi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
 
             };
     private  String[][] doctor_details2=
@@ -25,12 +41,17 @@ public class DoctorDetailsActivity extends AppCompatActivity {
                     {"Doctor Name:- Dr. Mahmudur Rahman", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name:- Dr. Habibur Ahmed", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name:- Dr. Tarekul Wahid", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
-                    {"Doctor Name:- Dr. Emdadur Miah", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:- Dr. Emdadur Rahim", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name:- Dr. Jaminur Islam", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
-                    {"Doctor Name: Raza", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahman", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Miah", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
-                    {"Doctor Name: Rahat", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Riad", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
 
 
@@ -38,14 +59,29 @@ public class DoctorDetailsActivity extends AppCompatActivity {
     private  String[][] doctor_details3=
             {
                     {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
-                    {"Doctor Name: Raza", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
-                    {"Doctor Name: Miah", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
-                    {"Doctor Name: Rahat", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
 
             };
     private  String[][] doctor_details4=
             {
+                    {"Doctor Name:Dr.Sajib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Kamrul", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Nadim ", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Rafi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Nayeem", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
 
             };
 
@@ -55,6 +91,17 @@ public class DoctorDetailsActivity extends AppCompatActivity {
                     {"Doctor Name: Kamrul", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Nadim ", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Rafi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Hasan", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rahi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Mahbub", "Hospital Address: Sylhet","Exp:5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Rafid", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name:Dr.Rafi", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
+                    {"Doctor Name: Habib", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
                     {"Doctor Name: Nayeem", "Hospital Address: Sylhet","Exp: 5years", "Mobile No:017701236877", "700"},
 
             };
