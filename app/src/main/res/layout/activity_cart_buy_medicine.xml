@@ -4,7 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@drawable/bg1"
+    android:background="#C9C9C9CA"
     tools:context=".CartBuyMedicine">
 
     <TextView
@@ -26,7 +26,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Medicine Cart Items"
-        android:textColor="#FA2010"
+        android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -91,6 +91,7 @@
         android:layout_marginTop="16dp"
         android:text="TotalCost : 1450/-"
         android:textSize="28sp"
+        android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/listViewBMCart" />
@@ -101,6 +102,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="44dp"
         android:text="Select Deliver Date"
+        android:textStyle="bold"
         android:textColor="@color/colorRed"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
@@ -113,6 +115,7 @@
         android:layout_height="50dp"
         android:layout_marginTop="8dp"
         android:text="27/04/2023"
+        android:textStyle="bold"
         android:textColor="@color/purple_700"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.508"
