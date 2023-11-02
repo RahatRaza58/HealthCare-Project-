@@ -32,8 +32,8 @@
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_doctor_details.xml" value="0.21240942028985507" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_find_doctor.xml" value="0.2" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_health_tips.xml" value="0.21240942028985507" />
-        <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_health_tips_details.xml" value="0.1" />
-        <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_health_tips_details.xml" value="0.264" />
+        <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_home.xml" value="0.25" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_lab_test.xml" value="0.21240942028985507" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_lab_test_book.xml" value="0.1" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_lab_test_details.xml" value="0.21240942028985507" />
@@ -41,7 +41,7 @@
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_main.xml" value="0.21240942028985507" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_order_details.xml" value="0.21240942028985507" />
         <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/activity_register.xml" value="0.21240942028985507" />
-        <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/multi_lines.xml" value="0.1" />
+        <entry key="..\:/Android Project/HealthCare Project/app/src/main/res/layout/multi_lines.xml" value="0.264" />
       </map>
     </option>
   </component>

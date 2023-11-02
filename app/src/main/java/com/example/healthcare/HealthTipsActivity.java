@@ -20,6 +20,8 @@ public class HealthTipsActivity extends AppCompatActivity {
             {"Stop Smoking", "", "", "", "Click More Details"},
             {"Menstrual Cramps", "", "", "", "Click More Details"},
             {"Healthy Gut", "", "", "", "Click More Details"},
+           {"Dengue", "", "", "", "Click More Details"},
+           {"Malaria", "", "", "", "Click More Details"},
 
     };
     private int[] images ={
@@ -28,6 +30,9 @@ public class HealthTipsActivity extends AppCompatActivity {
             R.drawable.health3,
             R.drawable.health4,
             R.drawable.health5,
+            R.drawable.health6,
+            R.drawable.health7,
+
     };
     HashMap<String,String> item;
     ArrayList list;
@@ -57,13 +62,15 @@ public class HealthTipsActivity extends AppCompatActivity {
             item.put("line3", health_details[i][2]);
             item.put("line4", health_details[i][3]);
             item.put("line5", health_details[i][4]);
+           // item.put("line6", health_details[i][5]);
+           // item.put("line7", health_details[i][6]);
 
             list.add(item);
         }
 
         sa =new SimpleAdapter(this,list,
                 R.layout.multi_lines,
-                new String[]{"line1","line2","line3","line4","line5"},
+                new String[]{"line1","line2","line3","line4","line5","line6","line7"},
                 new int[]{R.id.line_a,R.id.line_b,R.id.line_c,R.id.line_d,R.id.line_e});
         lst.setAdapter(sa);
 

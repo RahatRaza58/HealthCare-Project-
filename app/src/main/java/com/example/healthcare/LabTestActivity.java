@@ -18,24 +18,26 @@ public class LabTestActivity extends AppCompatActivity {
     private  String[][] packages =
             {
                 {"Package 1: Full Body Check Up", "", "", "", "999"},
-                {"Package 2: Urin Check Up", "", "", "", "799"},
+                {"Package 2: Urine Check Up", "", "", "", "799"},
                 {"Package 3: Blood Check Up", "", "", "", "399"},
                 {"Package 4: Immunity Check Up", "", "", "", "899"},
-                {"Package 5: Face Check Up", "", "", "", "599"}
+                {"Package 5: Face Check Up", "", "", "", "599"},
+                {"Package 6: Pressure Check", "", "", "", "599"},
 
 
             };
     private String[] package_details= {
-            "Blood Gulcose Test\n" +
+            "Blood Glucose Test\n" +
                     " Blood Test\n" +
                     "Blood Test\n" +
                     " Blood Test\n" +
                     "Blood Test",
-            "Blood Urin Test",
-            "Blood  SSSSSSSSSSSSSSS Test",
-            "Blood  xxxxxxxxxxxxxxx Test",
+            "Blood Urine Test",
+            "Blood Glucose Test",
+            "Blood  Hemoglobin Test",
+            "Blood Test",
             "Complete Check Up\n" +
-                    "Blood Gulcose Test\n" +
+                    "Blood Glucose Test\n" +
                     " Blood Test\n" +
                     "Blood Test\n" +
                     "Blood Test\n" +
