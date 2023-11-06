@@ -39,7 +39,7 @@
         android:id="@+id/textViewLDPackageName"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Lab Test And Package"
+        android:text="Lab Test And Packages"
         android:textColor="#FA2010"
         android:textSize="20sp"
         android:textStyle="bold"
